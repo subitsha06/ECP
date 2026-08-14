@@ -52,6 +52,8 @@ while(1);
 
 OUTPUT
 (i) Serial Port Transfer a Single Character
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/078e1906-42a2-40d6-9a30-ebda5c0b979e" />
+
 
 
 
@@ -60,6 +62,7 @@ OUTPUT
 
 (ii) Serial Port to Transfer a Message
 
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/da6523ac-b3da-4c9f-b01f-2a62d3a5089d" />
 
 
 
